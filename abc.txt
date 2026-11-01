@@ -1,0 +1,2 @@
+My contribution to the AI Project Gallery.
+This file demonstrates a change made in the GIT-EXAM feature branch.
